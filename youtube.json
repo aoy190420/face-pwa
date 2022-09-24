@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3
+  "name": "YouTube"
+  "version": "1.0.0"
+  "description": "実際には，起動しません。",
+  icons": {
+  "200": "yt.png"
+  },
+  "display": "fullscreen"
+}

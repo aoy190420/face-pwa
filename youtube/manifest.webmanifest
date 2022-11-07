@@ -9,30 +9,8 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "pwa/icon/stable-icon-512.png",
-      "sizes": "512x512"
-    }
-  ],
-      "icons": [
-        {
-          "src": "./pwa/short-icon/nit-meet-96.png",
-          "sizes": "96x96"
-        }
-      ]
-    }
-  ],
-  "screenshots": [
-    {
-      "src": "pwa/about/install.png",
-      "sizes": "1280x720"
-    },
-    {
-      "src": "pwa/about/youtube.png",
-      "sizes": "1280x720"
-    },
-    {
-      "src": "pwa/about/share-widget.png",
-      "sizes": "1280x720"
+      "src": "./icon.png",
+      "sizes": "1024x1024"
     }
   ],
   "dir": "ltr"
